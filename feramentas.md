@@ -20,9 +20,9 @@
 
 # Outras Ferramentas
 
-|Nome com Link | Sistema de Pontuação? | Linguagens Suportadas | Observações |
+|Nome com Link | Sistema de Pontuação? | Linguagens Suportadas | Descrição |
 | ---------------- | --------------------------- | ----------- | -------- |
-| [APP Inventor](http://ai2.appinventor.mit.edu/) |  |  | --------- |
+| [APP Inventor](http://ai2.appinventor.mit.edu/) |  | | --------- |
 
 
 <!-- 
