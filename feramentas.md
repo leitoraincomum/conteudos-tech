@@ -49,3 +49,6 @@ https://hackr.io
 https://bento.io
 https://www.codeavengers.com
 https://codeasy.net
+
+API
+https://rapidapi.com/pt/marketplace
