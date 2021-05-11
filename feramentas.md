@@ -49,6 +49,14 @@ https://hackr.io
 https://bento.io
 https://www.codeavengers.com
 https://codeasy.net
+https://readme.so/editor
 
 API
 https://rapidapi.com/pt/marketplace
+
+Extras
+Docker
+https://www.youtube.com/watch?v=0cDj7citEjE&list=PLf-O3X2-mxDk1MnJsejJwqcrDC5kDtXEb
+
+Kubernets
+https://www.youtube.com/playlist?list=PLf-O3X2-mxDmXQU-mJVgeaSL7Rtejvv0S
