@@ -54,7 +54,11 @@ https://readme.so/editor
 API
 https://rapidapi.com/pt/marketplace
 
+
 Extras
+DEV CHALLENGE
+https://www.devchallenge.com.br/challenges
+
 Docker
 https://www.youtube.com/watch?v=0cDj7citEjE&list=PLf-O3X2-mxDk1MnJsejJwqcrDC5kDtXEb
 
