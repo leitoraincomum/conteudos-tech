@@ -65,5 +65,9 @@ https://www.youtube.com/watch?v=0cDj7citEjE&list=PLf-O3X2-mxDk1MnJsejJwqcrDC5kDt
 Kubernets
 https://www.youtube.com/playlist?list=PLf-O3X2-mxDmXQU-mJVgeaSL7Rtejvv0S
 
+https://www.coursera.org/
 
 https://kitten.code.game
+
+
+https://preply.com
