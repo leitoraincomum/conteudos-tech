@@ -2,12 +2,13 @@
 
 *Sites com exercícios para treinar*
 
-|Nome com Link | Sistema de Pontuação? | Salva Projetos?| Linguagens Suportadas | Observações |
+|Nome com Link | Sistema de Pontuação? | Salva Projetos? | Linguagens Suportadas | Observações |
 | ---------------- | ---------------- |---------- |----------- | -------- |
 |[Bento.IO](https://bento.io)| Sim | Não | Nenhuma específica | Plataforma de auxilio a se tornar autodidata em programação (em inglês)|
 |[Code](https://code.org)| Não | Sim | Não disponível | Cursos de treino de lógica, entre outros para pessoas iniciantes |
 |[Code Academy](https://www.codecademy.com/)| Não | Não Sei| Diversas áreas de conhecimento| -------------|
 |[Code Chef](https://www.codechef.com/ide)| Sim | Sim | As principais de competições de programação| Site para treinamento em competições de programação |
+|[Code Wars](https://www.codewars.com/)| Sim | Sim | CoffeScript, Coq, Go, NASM, Scala, Shell, entre outras.| Plataforma com exercícios para estudo de diversas linguagens (em inglês) |
 |[Coding Game](https://www.codingame.com/start) | Não sei  | Sim | Bash, C, C++, C#, Clojure, D, Dart, F#, Go, Groovy, Haskell, Java, JavaScript, Kotlin, Lua, Objective-C, OCaml, Pascal, PHP, Python, Ruby, Rust, Scala, Swift, TypeScript e VB.NET  | --------- |
 |[Coursera](https://www.coursera.org/)| Não | Não | Diversas | Plataforma de cursos gratuitos com certificado |
 |[Flex Box](https://flexboxfroggy.com)| Não | Não | Flex Box (CSS) | Desafios para treinar FLex Box | 
@@ -57,7 +58,6 @@
 
 |Nome com link | ----  | --------- |
 | ------ | ----- | ------ |
-|[Code Wars](https://www.codewars.com/)
 |[Hackr.IO](https://hackr.io)
 |[Koans Kotling](https://play.kotlinlang.org/koans/Introduction/Hello,%20world!/Task.kt)
 |[Blog Kotlin](https://blog.kotlin-academy.com/best-kotlin-free-online-courses-5838cb7063c6)
