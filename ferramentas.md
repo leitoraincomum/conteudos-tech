@@ -4,6 +4,8 @@
 
 |Nome com Link | Sistema de Pontuação? | Salva Projetos?| Linguagens Suportadas | Observações |
 | ---------------- | ---------------- |---------- |----------- | -------- |
+|[Bento.IO](https://bento.io)| Sim | Não | Nenhuma específica | Plataforma de auxilio a se tornar autodidata em programação (em inglês)|
+|[Code](https://code.org)| Não | Sim | Não disponível | Cursos de treino de lógica, entre outros para pessoas iniciantes |
 |[Code Academy](https://www.codecademy.com/)| Não | Não Sei| Diversas áreas de conhecimento| -------------|
 |[Code Chef](https://www.codechef.com/ide)| Sim | Sim | As principais de competições de programação| Site para treinamento em competições de programação |
 |[Coding Game](https://www.codingame.com/start) | Não sei  | Sim | Bash, C, C++, C#, Clojure, D, Dart, F#, Go, Groovy, Haskell, Java, JavaScript, Kotlin, Lua, Objective-C, OCaml, Pascal, PHP, Python, Ruby, Rust, Scala, Swift, TypeScript e VB.NET  | --------- |
@@ -21,8 +23,7 @@
 | ---------------- | ----------- | ---------------- | ----------- | -------- |
 |[Code Sand Box](https://codesandbox.io)| Não | Sim | HTML, CSS, Node.js, [entre outras](https://codesandbox.io/docs/start) | Plataforma para projetos front-end |
 |[DartPad](https://dartpad.dev/) | Não | Não | Dart | --------- |
-|[IDEONE](https://ideone.com)| Não | Sim | Ada95, Assembler, AWK, Bash, C99,  Cobol, COBOL 85, Fortran, Go, SQLite, Swift, [entre outras](https://ideone.com/credits)
-| ------ |
+|[IDEONE](https://ideone.com)| Não | Sim | Ada95, Assembler, AWK, Bash, C99,  Cobol, COBOL 85, Fortran, Go, SQLite, Swift, [entre outras](https://ideone.com/credits)| ------ |
 |[OnLineGDB](https://www.onlinegdb.com) | Não | Sim | C, C++, Python, PHP, Ruby, C#, VB, Perl, Swift, Prolog, Javascript, Pascal, HTML, CSS e JavaScript | -------- |
 |[Online IDE](https://www.online-ide.com)| Não | Não | Bash, C, C++, Go Lang, Java, PHP, Python, R e Ruby | Não tem sistema de login para usar |
 |[ReplIt](https://repl.it/)| Não | Sim | Bloop, Deno, Julia, Lua, Nim, Raku, Roy, [entre outras](https://replit.com/site/about) | -------- |
@@ -34,6 +35,7 @@
 | ---------------- | --------------------------- | ----------- | -------- |
 |[APP Inventor](http://ai2.appinventor.mit.edu/) |  | | --------- |
 |[Cron App](https://www.cronapp.io/planos) | Projetos para praticar |  | ----------- |
+|[Read Me](https://readme.so/editor)| Não | Read Me | Site para criação de ReadMe para seus projetos |
 
 # Extras 
 
@@ -55,15 +57,11 @@
 
 |Nome com link | ----  | --------- |
 | ------ | ----- | ------ |
-|[Code](https://code.org)
 |[Code Wars](https://www.codewars.com/)
 |[Hackr.IO](https://hackr.io)
-|[Bento.IO](https://bento.io)
-|[Code Avengers](https://www.codeavengers.com)
-|[Code Easy](https://codeasy.net)
-|[Read Me](https://readme.so/editor)
 |[Koans Kotling](https://play.kotlinlang.org/koans/Introduction/Hello,%20world!/Task.kt)
 |[Blog Kotlin](https://blog.kotlin-academy.com/best-kotlin-free-online-courses-5838cb7063c6)
+|[Glitch](https://glitch.com/pricing)
 
 
 <!-- 
