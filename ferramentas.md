@@ -9,6 +9,7 @@
 |[Code Academy](https://www.codecademy.com/)| Não | Não Sei| Diversas áreas de conhecimento| -------------|
 |[Code Chef](https://www.codechef.com/ide)| Sim | Sim | As principais de competições de programação| Site para treinamento em competições de programação |
 |[Coding Game](https://www.codingame.com/start) | Não sei  | Sim | Bash, C, C++, C#, Clojure, D, Dart, F#, Go, Groovy, Haskell, Java, JavaScript, Kotlin, Lua, Objective-C, OCaml, Pascal, PHP, Python, Ruby, Rust, Scala, Swift, TypeScript e VB.NET  | --------- |
+|[Coursera](https://www.coursera.org/)| Não | Não | Diversas | Plataforma de cursos gratuitos com certificado |
 |[Flex Box](https://flexboxfroggy.com)| Não | Não | Flex Box (CSS) | Desafios para treinar FLex Box | 
 |[Hacker Rank](https://www.hackerrank.com)| SIM | Não | Angular, C#, CSS, Go, Java, JavaScript, Node, Node.js, Python, R, React, Rest API, SQL e etc. | Modos básicos e intermediários |
 |[Free Code Camp](https://www.freecodecamp.org)| Não | Não | Diversas | Plataforma de certificação de habilidades técnicas gratuita (em inglês) |
@@ -33,18 +34,17 @@
 
 |Nome com Link | Sistema de Pontuação? | Linguagens Suportadas | Descrição |
 | ---------------- | --------------------------- | ----------- | -------- |
-|[APP Inventor](http://ai2.appinventor.mit.edu/) |  | | --------- |
+|[APP Inventor](http://ai2.appinventor.mit.edu/) | Não  | Indefinida | Site para construção de aplicações mobile para iniciantes usando métodos de blocos para programação |
 |[Cron App](https://www.cronapp.io/planos) | Projetos para praticar |  | ----------- |
 |[Read Me](https://readme.so/editor)| Não | Read Me | Site para criação de ReadMe para seus projetos |
 
 # Extras 
 
-|Nome com Link | Sistema de Pontuação? | Linguagens Suportadas |
+|Nome com Link | Tipo de Conteúdo | Feito por: |
 | ------ | -------- | -------- |
-|[DEV CHALLENGE](https://www.devchallenge.com.br/challenges)| | ------- |
-|[Docker](https://www.youtube.com/watch?v=0cDj7citEjE&list=PLf-O3X2-mxDk1MnJsejJwqcrDC5kDtXEb)| | ------- |
-|[Kubernets](https://www.youtube.com/playlist?list=PLf-O3X2-mxDmXQU-mJVgeaSL7Rtejvv0S)| | ------- |
-|[Coursera](https://www.coursera.org/)| | ------- |
+|[Descomplicando o Docker](https://www.youtube.com/watch?v=0cDj7citEjE&list=PLf-O3X2-mxDk1MnJsejJwqcrDC5kDtXEb)| Série de vídeo aulas | Jeferson Fernando ([LinuxTips](https://www.linuxtips.io)) |
+|[Descomplicando Kubernets](https://www.youtube.com/playlist?list=PLf-O3X2-mxDmXQU-mJVgeaSL7Rtejvv0S)| Série de vídeo aulas | Jeferson Fernando ([LinuxTips](https://www.linuxtips.io)) |
+|[DEV CHALLENGE](https://www.devchallenge.com.br/challenges)| Desafios de front-end, back-end e mobile | [Lorena Montes](https://www.linkedin.com/in/lorenagmontes/) |
 |[Kitten](https://kitten.code.game)| | ------- |
 |[Preply](https://preply.com)| | ------- |
 
@@ -61,7 +61,7 @@
 |[Hackr.IO](https://hackr.io)
 |[Koans Kotling](https://play.kotlinlang.org/koans/Introduction/Hello,%20world!/Task.kt)
 |[Blog Kotlin](https://blog.kotlin-academy.com/best-kotlin-free-online-courses-5838cb7063c6)
-|[Glitch](https://glitch.com/pricing)
+|[Glitch](https://glitch.com/)
 
 
 <!-- 
