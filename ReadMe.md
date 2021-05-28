@@ -1,6 +1,9 @@
-# Sites com exercícios
+# Sobre esse repositório
+- Esse repositório foi criado por mim [Fernanda Souza](https://github.com/leitoraincomum) com o intuito de divulgar ferramentas gratuitas que possam auxiliar pessoas em seus estudos.
+- Se conhece alguma que não está listada, faça forx desse repositório e abra uma solicitação de alteração (pull request).
 
-*Sites com exercícios para treinar*
+# Sites com exercícios
+- *Sites com exercícios para treinar*
 
 |Nome com Link | Sistema de Pontuação? | Salva Projetos? | Linguagens Suportadas | Observações |
 | ---------------- | ---------------- |---------- |----------- | -------- |
@@ -20,8 +23,8 @@
 |[URI On Line](https://www.urionlinejudge.com.br) | SIM | Não | C, C++, C#, Clojure, Dart, Go, Haskell, Java, JavaScript, Kotlin,  PHP, Python, R, Ruby, Rust e Scala  | 6 Modos desde o iniciante, com Hello World! |
 
 # IDE's online
+- *Caso queira estudar linguagens e não possa ou não queira instalar uma IDE, existem essas online*
 
-*Caso queira estudar linguagens e não possa ou não queira instalar uma IDE, existem essas online*
 |Nome com Link | Sistema de Pontuação? | Salva Projetos? | Linguagens Suportadas | Observações |
 | ---------------- | ----------- | ---------------- | ----------- | -------- |
 |[Code Sand Box](https://codesandbox.io)| Não | Sim | HTML, CSS, Node.js, [entre outras](https://codesandbox.io/docs/start) | Plataforma para projetos front-end |
@@ -34,6 +37,7 @@
 
 
 # Outras Ferramentas
+- *Outras ferramentas de aprendizado gratuitas*
 
 |Nome com Link | Sistema de Pontuação? | Linguagens Suportadas | Descrição |
 | ---------------- | --------------------------- | ----------- | -------- |
@@ -42,6 +46,7 @@
 |[Read Me](https://readme.so/editor)| Não | Read Me | Site para criação de ReadMe para seus projetos |
 
 # Extras 
+- *Cursos, vídeo aulas, etc. gratuitos*
 
 |Nome com Link | Tipo de Conteúdo | Feito por: |
 | ------ | -------- | -------- |
@@ -55,6 +60,8 @@
 
 
 # API
+- *Sites com concentração de API's para projetos*
+
 |Nome com link | Descrição  | Mantido por:  |
 | ------ | ----- | ------ |
 |[RapiDapi](https://rapidapi.com/pt/marketplace)| Coleção de API's | RapidAPI |
