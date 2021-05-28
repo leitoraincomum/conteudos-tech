@@ -54,6 +54,7 @@
 |[Descomplicando o Docker](https://www.youtube.com/watch?v=0cDj7citEjE&list=PLf-O3X2-mxDk1MnJsejJwqcrDC5kDtXEb)| Série de vídeo aulas | Jeferson Fernando ([LinuxTips](https://www.linuxtips.io)) |
 |[Descomplicando Kubernets](https://www.youtube.com/playlist?list=PLf-O3X2-mxDmXQU-mJVgeaSL7Rtejvv0S)| Série de vídeo aulas | Jeferson Fernando ([LinuxTips](https://www.linuxtips.io)) |
 |[DEV CHALLENGE](https://www.devchallenge.com.br/challenges)| Desafios de front-end, back-end e mobile | [Lorena Montes](https://www.linkedin.com/in/lorenagmontes/) |
+|[Introdução Js](https://go.betrybe.com/freecourse?utm_medium=referral&utm_source=feministech&utm_campaign=3-maratona-live-coder-girls)| Curso introdutório de JavaScript | Trybe |
 |[PHP do Jeito Certo](http://br.phptherightway.com)| Tutorial de PHP em texto | Josh Lockhart e [colaboradores](http://br.phptherightway.com/#site-footer)|
 |[Poke PHP](https://pokephp.com.br)| Série de vídeo aulas | Rodrigo "PokemaoBR" Cardoso |
 |[Kitten](https://kitten.code.game)| Plataforma lúdica de criação de games com foco em pessoas entre 3 e 18 anos  | Codemao (Shenzhen Dianmao Technology Co., Ltd |
