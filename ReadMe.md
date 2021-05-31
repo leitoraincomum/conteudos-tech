@@ -75,8 +75,9 @@
 | ------ | ----- | ------ |
 |[Preply](https://preply.com)| | ------- |
 
-
-
+https://github.com/arkjoin/cursos
+https://github.com/TigaxMT/Apontamentos-Machine-Learning
+https://www.firedlabs.com/event/html-css
 
  |  | |  | --------- |
 --!>
