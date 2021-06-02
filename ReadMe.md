@@ -80,6 +80,8 @@ Frontend Mentor (https://www.frontendmentor.io)
 - Dribbble (https://dribbble.com)
 - DesignVault (https://designvault.io)
 - Screenlane (https://screenlane.com)
+- LeetCode
+- Spoj
 
 https://github.com/arkjoin/cursos
 https://github.com/TigaxMT/Apontamentos-Machine-Learning
