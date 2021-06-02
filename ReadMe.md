@@ -74,6 +74,12 @@
 |Nome com link | ----  | --------- |
 | ------ | ----- | ------ |
 |[Preply](https://preply.com)| | ------- |
+Frontend Mentor (https://www.frontendmentor.io)
+- DevChallenges (http://devchallenges.io)
+- DevChallenge (http://devchallenge.com.br)
+- Dribbble (https://dribbble.com)
+- DesignVault (https://designvault.io)
+- Screenlane (https://screenlane.com)
 
 https://github.com/arkjoin/cursos
 https://github.com/TigaxMT/Apontamentos-Machine-Learning
