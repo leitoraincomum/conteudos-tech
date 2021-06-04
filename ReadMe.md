@@ -51,13 +51,18 @@
 |Nome com Link | Tipo de Conteúdo | Feito por: |
 | ------ | -------- | -------- |
 |[Blog Kotlin](https://blog.kotlin-academy.com/best-kotlin-free-online-courses-5838cb7063c6) | Página do blog oficial da linguagem Kotlin com cursos gratuitos com a missão de simplificar o aprendizado do Kotlin | Mantenedores da Linguagem |
+|[Curso em Video](https://www.cursoemvideo.com/course/)| Portal de ensino com diversos cursos como Linux, Redes, Python, Java, PHP, Javascript, HTML, CSS, entre muitos outros| Gustavo Guanabara |
 |[Descomplicando o Docker](https://www.youtube.com/watch?v=0cDj7citEjE&list=PLf-O3X2-mxDk1MnJsejJwqcrDC5kDtXEb)| Série de vídeo aulas | Jeferson Fernando ([LinuxTips](https://www.linuxtips.io)) |
 |[Descomplicando Kubernets](https://www.youtube.com/playlist?list=PLf-O3X2-mxDmXQU-mJVgeaSL7Rtejvv0S)| Série de vídeo aulas | Jeferson Fernando ([LinuxTips](https://www.linuxtips.io)) |
 |[DEV CHALLENGE](https://www.devchallenge.com.br/challenges)| Desafios de front-end, back-end e mobile | [Lorena Montes](https://www.linkedin.com/in/lorenagmontes/) |
+|[Diego Mariano](https://diegomariano.com/home/#free-courses)| Portal de cursos que contém cursos gratuitos com certificado em tópicos como HTML, CSS, Linux, SQL, PHP, entre outros| Diego Mariano|
 |[Introdução Js](http://betrybe.com/curso-gratuito-js)| Curso introdutório de JavaScript | Trybe |
+|[loiane.training](https://loiane.training/cursos)| Cursos de Java, Angular, Phoneag e Apache Cordova, Fundamentos EXT JS 4 | [Loiane Groner](https://www.youtube.com/channel/UCqQn92noBhY9VKQy4xCHPsg)|
 |[PHP do Jeito Certo](http://br.phptherightway.com)| Tutorial de PHP em texto | Josh Lockhart e [colaboradores](http://br.phptherightway.com/#site-footer)|
 |[Poke PHP](https://pokephp.com.br)| Série de vídeo aulas | Rodrigo "PokemaoBR" Cardoso |
-|[Kitten](https://kitten.code.game)| Plataforma lúdica de criação de games com foco em pessoas entre 3 e 18 anos  | Codemao (Shenzhen Dianmao Technology Co., Ltd |
+|[Kitten](https://kitten.code.game)| Plataforma lúdica de criação de games com foco em pessoas entre 3 e 18 anos  | Codemao (Shenzhen Dianmao Technology Co., Ltd) |
+|[Solyd](https://solyd.com.br/treinamentos/)| Introdução ao Hacking e Pentest e Python básico | Solyd|
+|[WoMakersCode](https://maismulheres.tech/courses)| Cloud Computing, DevOps, Data Science, Inteligência artifical e muito mais| Microsoft|
 
 
 # API
@@ -66,6 +71,7 @@
 |Nome com link | Descrição  | Mantido por:  |
 | ------ | ----- | ------ |
 |[RapiDapi](https://rapidapi.com/pt/marketplace)| Coleção de API's | RapidAPI |
+|[Public APIs](https://github.com/public-apis/public-apis)| Repositório com várias APIs gratuitas dos mais diversos assuntos|Public APIs|
 
 
 <!-- 
