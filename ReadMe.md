@@ -66,6 +66,7 @@
 |Nome com link | Descrição  | Mantido por:  |
 | ------ | ----- | ------ |
 |[RapiDapi](https://rapidapi.com/pt/marketplace)| Coleção de API's | RapidAPI |
+| [BrasilAPI](https://brasilapi.com.br/docs) | Projeto de código aberto, que transforma o Brasil em uma API | Comunidade |
 
 
 <!-- 
