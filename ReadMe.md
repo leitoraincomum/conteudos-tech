@@ -31,6 +31,7 @@
 |[DartPad](https://dartpad.dev/) | Não | Não | Dart | --------- |
 |[Glitch](https://glitch.com/) | Não | Sim | Linguagens para aplicações web | IDE e comunidade para aplicações web |
 |[IDEONE](https://ideone.com)| Não | Sim | Ada95, Assembler, AWK, Bash, C99,  Cobol, COBOL 85, Fortran, Go, SQLite, Swift, [entre outras](https://ideone.com/credits)| ------ |
+|[Learn Git](https://learngitbranching.js.org/?locale=pt_BR)| Não | Não | Git | Aqui você pode aprender no passo a passo ou treinar no modo sandbox! |
 |[OnLineGDB](https://www.onlinegdb.com) | Não | Sim | C, C++, Python, PHP, Ruby, C#, VB, Perl, Swift, Prolog, Javascript, Pascal, HTML, CSS e JavaScript | -------- |
 |[Online IDE](https://www.online-ide.com)| Não | Não | Bash, C, C++, Go Lang, Java, PHP, Python, R e Ruby | Não tem sistema de login para usar |
 |[ReplIt](https://repl.it/)| Não | Sim | Bloop, Deno, Julia, Lua, Nim, Raku, Roy, [entre outras](https://replit.com/site/about) | -------- |
