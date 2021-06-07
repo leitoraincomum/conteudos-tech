@@ -51,6 +51,7 @@
 
 |Nome com Link | Tipo de Conteúdo | Feito por: |
 | ------ | -------- | -------- |
+| [4Noobs](https://github.com/he4rt/4noobs) | Tutorais e guias de diversos tópicos com nível iniciante em TI | Comunidade He4rt |
 |[Blog Kotlin](https://blog.kotlin-academy.com/best-kotlin-free-online-courses-5838cb7063c6) | Página do blog oficial da linguagem Kotlin com cursos gratuitos com a missão de simplificar o aprendizado do Kotlin | Mantenedores da Linguagem |
 |[Curso em Video](https://www.cursoemvideo.com/course/)| Portal de ensino com diversos cursos como Linux, Redes, Python, Java, PHP, Javascript, HTML, CSS, entre muitos outros| Gustavo Guanabara |
 |[Descomplicando o Docker](https://www.youtube.com/watch?v=0cDj7citEjE&list=PLf-O3X2-mxDk1MnJsejJwqcrDC5kDtXEb)| Série de vídeo aulas | Jeferson Fernando ([LinuxTips](https://www.linuxtips.io)) |
