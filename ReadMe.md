@@ -21,6 +21,7 @@
 |[Khan Academy](https://pt.khanacademy.org) | Sim | Não | Lógica e outras disciplinas | --------- |
 |[Koans Kotling](https://play.kotlinlang.org/koans/Introduction/Hello,%20world!/Task.kt)| Não | Não | Kotlin | Teste de estruturas Kotlin para aprendizado |
 |[URI On Line](https://www.urionlinejudge.com.br) | SIM | Não | C, C++, C#, Clojure, Dart, Go, Haskell, Java, JavaScript, Kotlin,  PHP, Python, R, Ruby, Rust e Scala  | 6 Modos desde o iniciante, com Hello World! |
+|[Kaggle](https://www.kaggle.com/) | SIM | Não | Python, R, SQL | Maior site de referência para aprendizado de Data Science, Machine Learn e afins | 
 
 # IDE's online
 - *Caso queira estudar linguagens e não possa ou não queira instalar uma IDE, existem essas online*
