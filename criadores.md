@@ -10,6 +10,7 @@ Pessoas que fazem stream (live) de código ou outros temas de tecnologia
 | Nome | Skils | Link | Observações |
 | ---------------- | ---------------- |---------- |----------- |
 |[Fê Souza - Leitora Incomum](https://beacons.page/leitoraincomum)| Dart, Flutter, HTML, SoftSkills, etc | [Twitch](https://www.twitch.tv/em1dio) | ------- |
+|Bruna Ferreira - bug_elseif| Ciência da computação, Python | [Twitch](https://www.twitch.tv/bug_elseif) | ------- |
 
 ****
 
