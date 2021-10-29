@@ -66,6 +66,7 @@
 |[Kitten](https://kitten.code.game)| Plataforma lúdica de criação de games com foco em pessoas entre 3 e 18 anos  | Codemao (Shenzhen Dianmao Technology Co., Ltd) |
 |[Solyd](https://solyd.com.br/treinamentos/)| Introdução ao Hacking e Pentest e Python básico | Solyd|
 |[WoMakersCode](https://maismulheres.tech/courses)| Cloud Computing, DevOps, Data Science, Inteligência artifical e muito mais| Microsoft|
+|[Learn Ayything](https://learn-anything.xyz)| Trilhas com cursos, vídeos, artigos e repositórios do GitHub sobre qualquer assunto | Nikita Voloboev e Angelo Gazzola |
 
 
 # API
