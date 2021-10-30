@@ -41,4 +41,5 @@ Pessoas que produzem vídeos sobre tecnologia
 |[LinuxTips](https://linktr.ee/linuxtips) | DevOps | [YouTube](https://www.youtube.com/channel/UCJnKVGmXRXrH49Tvrx5X0Sw) | ------- |
 |[Punk do Devops](https://punkdodevops.com/) | DevOps | [YouTube](https://www.youtube.com/c/PunkdoDevOps) | ------- |
 |[Gomex](https://linktr.ee/rafael_gomex) | DevOps | [YouTube](https://www.youtube.com/c/RafaelGomex) | ------- |
+|[AttekitaDev](https://beacons.page/attekitadev) | Web, Mobile, Games e Carreira | [YouTube](https://www.youtube.com/c/AttekitaDev) | ------- |
 
