@@ -14,6 +14,7 @@
 |[Code Wars](https://www.codewars.com/)| Sim | Sim | CoffeScript, Coq, Go, NASM, Scala, Shell, entre outras.| Plataforma com exercícios para estudo de diversas linguagens (em inglês) |
 |[Coding Game](https://www.codingame.com/start) | Não sei  | Sim | Bash, C, C++, C#, Clojure, D, Dart, F#, Go, Groovy, Haskell, Java, JavaScript, Kotlin, Lua, Objective-C, OCaml, Pascal, PHP, Python, Ruby, Rust, Scala, Swift, TypeScript e VB.NET  | --------- |
 |[Coursera](https://www.coursera.org/)| Não | Não | Diversas | Plataforma de cursos gratuitos com certificado |
+|[Exercism](https://exercism.org/)| Sim | Sim | Diversas (55 linguagens) | Plataforma 100% free, para aprender e praticar |
 |[Flex Box](https://flexboxfroggy.com)| Não | Não | Flex Box (CSS) | Desafios para treinar FLex Box | 
 |[Free Code Camp](https://www.freecodecamp.org)| Não | Não | Diversas | Plataforma de certificação de habilidades técnicas gratuita (em inglês) |
 |[Hackr.IO](https://hackr.io) | Não | Não | Diversas | Agregador de cursos online, gratuitos e pagos |
