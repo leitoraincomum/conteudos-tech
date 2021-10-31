@@ -29,6 +29,8 @@
 |[Coding Game](https://www.codingame.com/)| Sim | Sim | Bash, C, C#, C++, Clojure, D, Dart, F#, Go, Groovy, Haskell, Java, Javascript, Kotlin, Lua, ObjectiveC, OCaml, Pascal, Perl, PHP, Python3, Ruby, Rust, Scala, Swift, TypeScript, VB.NET| Site para competir e aprender criando algoritmos para jogar| 
 |[Kattis](https://open.kattis.com/)| Sim | Sim | C, C#, C++, COBOL, F#, Go, Haskell, Java, Node.js, SpiderMonkey(JS), Kotlin, Common Lisp, Objective-C, OCaml, Pascal, PHP, Prolog, Python 2, Python 3, Ruby, Rust | Site com desafios de algoritimo para treinar, com rank de países e universidades |
 |[Exercícios Kotlin - Kotlinautas](https://github.com/Kotlinautas/curso-kotlinautas)| Não | Não | Kotlin | Projeto com exercícios de Kotlin em pt-br que pode ser utilizado dentro da IDE Intellij Community com o plugin EduTools |
+|[SQL Murder mistery](https://mystery.knightlab.com/walkthrough.html) | Não | Não | SQL | Site com explicação/tutoriais interativos de sql que com os resultados ajudam a resolver um mistério |
+
 
 # IDE's online
 - *Caso queira estudar linguagens e não possa ou não queira instalar uma IDE, existem essas online*
