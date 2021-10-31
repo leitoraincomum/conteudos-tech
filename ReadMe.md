@@ -24,6 +24,10 @@
 |[URI On Line](https://www.urionlinejudge.com.br) | SIM | Não | C, C++, C#, Clojure, Dart, Go, Haskell, Java, JavaScript, Kotlin,  PHP, Python, R, Ruby, Rust e Scala  | 6 Modos desde o iniciante, com Hello World! |
 |[Kaggle](https://www.kaggle.com/) | SIM | Não | Python, R, SQL | Maior site de referência para aprendizado de Data Science, Machine Learn e afins | 
 |[LeetCode](https://leetcode.com/) | SIM | Não | C, C++, C#, Go, Java, JavaScript, Kotlin, PHP, Python, Python3, R, Ruby, Rust, MySQL, MS SQL, Oracle, Bash, Swift, Rust, Typescript, Racket, Erlang e Elixir | Site muito bom para treinar programação e estudar pra entrevista de código, tem módulos básicos, intermediários e avançados. Sessão com materiais de estudos com prática e contest toda semana. | 
+|[Grid Garden](https://cssgridgarden.com/) | Não | Não | CSS | Site para aprender e treinar css grid layout |
+|[CSS Battle](https://cssbattle.dev/) | Sim | Sim | HTML, CSS | Site de competição de css com menor numero de caracteres |
+|[Coding Game](https://www.codingame.com/)| Sim | Sim | Bash, C, C#, C++, Clojure, D, Dart, F#, Go, Groovy, Haskell, Java, Javascript, Kotlin, Lua, ObjectiveC, OCaml, Pascal, Perl, PHP, Python3, Ruby, Rust, Scala, Swift, TypeScript, VB.NET| Site para competir e aprender criando algoritmos para jogar| 
+|[Kattis](https://open.kattis.com/)| Sim | Sim | C, C#, C++, COBOL, F#, Go, Haskell, Java, Node.js, SpiderMonkey(JS), Kotlin, Common Lisp, Objective-C, OCaml, Pascal, PHP, Prolog, Python 2, Python 3, Ruby, Rust | Site com desafios de algoritimo para treinar, com rank de países e universidades |
 |[Exercícios Kotlin - Kotlinautas](https://github.com/Kotlinautas/curso-kotlinautas)| Não | Não | Kotlin | Projeto com exercícios de Kotlin em pt-br que pode ser utilizado dentro da IDE Intellij Community com o plugin EduTools |
 
 # IDE's online
@@ -39,6 +43,7 @@
 |[OnLineGDB](https://www.onlinegdb.com) | Não | Sim | C, C++, Python, PHP, Ruby, C#, VB, Perl, Swift, Prolog, Javascript, Pascal, HTML, CSS e JavaScript | -------- |
 |[Online IDE](https://www.online-ide.com)| Não | Não | Bash, C, C++, Go Lang, Java, PHP, Python, R e Ruby | Não tem sistema de login para usar |
 |[ReplIt](https://repl.it/)| Não | Sim | Bloop, Deno, Julia, Lua, Nim, Raku, Roy, [entre outras](https://replit.com/site/about) | -------- |
+|[vscode(beta)](https://vscode.dev/)| Não | Localmente | C/C++, C#, Java, PHP, Rust, Go, TypeScript, JavaScript, Python, JSON, HTML, CSS, and LESS,  [entre outras](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev)|
 
 
 # Outras Ferramentas
@@ -80,6 +85,7 @@
 |[RapiDapi](https://rapidapi.com/pt/marketplace)| Coleção de API's | RapidAPI |
 |[BrasilAPI](https://brasilapi.com.br/docs) | Projeto de código aberto, que transforma o Brasil em uma API | Comunidade |
 |[Public APIs](https://github.com/public-apis/public-apis)| Repositório com várias APIs gratuitas dos mais diversos assuntos|Public APIs|
+|[Any API](https://any-api.com/)| Site com diversas apis abertas de diversos nichos | LucyBot Inc.| 
 
 
 <!-- 
