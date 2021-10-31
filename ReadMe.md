@@ -83,6 +83,7 @@
 |[RapiDapi](https://rapidapi.com/pt/marketplace)| Coleção de API's | RapidAPI |
 |[BrasilAPI](https://brasilapi.com.br/docs) | Projeto de código aberto, que transforma o Brasil em uma API | Comunidade |
 |[Public APIs](https://github.com/public-apis/public-apis)| Repositório com várias APIs gratuitas dos mais diversos assuntos|Public APIs|
+|[Any API](https://any-api.com/)| Site com diversas apis abertas de diversos nichos | LucyBot Inc.| 
 
 
 <!-- 
