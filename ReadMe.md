@@ -23,6 +23,7 @@
 |[URI On Line](https://www.urionlinejudge.com.br) | SIM | Não | C, C++, C#, Clojure, Dart, Go, Haskell, Java, JavaScript, Kotlin,  PHP, Python, R, Ruby, Rust e Scala  | 6 Modos desde o iniciante, com Hello World! |
 |[Kaggle](https://www.kaggle.com/) | SIM | Não | Python, R, SQL | Maior site de referência para aprendizado de Data Science, Machine Learn e afins | 
 |[LeetCode](https://leetcode.com/) | SIM | Não | C, C++, C#, Go, Java, JavaScript, Kotlin, PHP, Python, Python3, R, Ruby, Rust, MySQL, MS SQL, Oracle, Bash, Swift, Rust, Typescript, Racket, Erlang e Elixir | Site muito bom para treinar programação e estudar pra entrevista de código, tem módulos básicos, intermediários e avançados. Sessão com materiais de estudos com prática e contest toda semana. | 
+|[Exercícios Kotlin - Kotlinautas](https://github.com/Kotlinautas/curso-kotlinautas)| Não | Não | Kotlin | Projeto com exercícios de Kotlin em pt-br que pode ser utilizado dentro da IDE Intellij Community com o plugin EduTools |
 
 # IDE's online
 - *Caso queira estudar linguagens e não possa ou não queira instalar uma IDE, existem essas online*
