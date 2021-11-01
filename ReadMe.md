@@ -30,6 +30,8 @@
 |[Kattis](https://open.kattis.com/)| Sim | Sim | C, C#, C++, COBOL, F#, Go, Haskell, Java, Node.js, SpiderMonkey(JS), Kotlin, Common Lisp, Objective-C, OCaml, Pascal, PHP, Prolog, Python 2, Python 3, Ruby, Rust | Site com desafios de algoritimo para treinar, com rank de países e universidades |
 |[Exercícios Kotlin - Kotlinautas](https://github.com/Kotlinautas/curso-kotlinautas)| Não | Não | Kotlin | Projeto com exercícios de Kotlin em pt-br que pode ser utilizado dentro da IDE Intellij Community com o plugin EduTools |
 |[SQL Murder mistery](https://mystery.knightlab.com/walkthrough.html) | Não | Não | SQL | Site com explicação/tutoriais interativos de sql que com os resultados ajudam a resolver um mistério |
+|[CoderByte](https://coderbyte.com/)| Sim | Sim | Java, Go, C, Scala, Shell, entre outras.| Plataforma com exercícios para estudo de diversas linguagens (em inglês) |
+
 
 
 # IDE's online
