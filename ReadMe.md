@@ -15,18 +15,18 @@
 |[Coding Game](https://www.codingame.com/start) | Não sei  | Sim | Bash, C, C++, C#, Clojure, D, Dart, F#, Go, Groovy, Haskell, Java, JavaScript, Kotlin, Lua, Objective-C, OCaml, Pascal, PHP, Python, Ruby, Rust, Scala, Swift, TypeScript e VB.NET  | --------- |
 |[Coursera](https://www.coursera.org/)| Não | Não | Diversas | Plataforma de cursos gratuitos com certificado |
 |[Exercism](https://exercism.org/)| Sim | Sim | Diversas (55 linguagens) | Plataforma 100% free, para aprender e praticar |
-|[Flex Box](https://flexboxfroggy.com)| Não | Não | Flex Box (CSS) | Desafios para treinar FLex Box | 
+|[Flex Box](https://flexboxfroggy.com)| Não | Não | Flex Box (CSS) | Desafios para treinar FLex Box |
 |[Free Code Camp](https://www.freecodecamp.org)| Não | Não | Diversas | Plataforma de certificação de habilidades técnicas gratuita (em inglês) |
 |[Hackr.IO](https://hackr.io) | Não | Não | Diversas | Agregador de cursos online, gratuitos e pagos |
 |[Hacker Rank](https://www.hackerrank.com)| SIM | Não | Angular, C#, CSS, Go, Java, JavaScript, Node, Node.js, Python, R, React, Rest API, SQL e etc. | Modos básicos e intermediários |
 |[Khan Academy](https://pt.khanacademy.org) | Sim | Não | Lógica e outras disciplinas | --------- |
 |[Koans Kotling](https://play.kotlinlang.org/koans/Introduction/Hello,%20world!/Task.kt)| Não | Não | Kotlin | Teste de estruturas Kotlin para aprendizado |
 |[URI On Line](https://www.urionlinejudge.com.br) | SIM | Não | C, C++, C#, Clojure, Dart, Go, Haskell, Java, JavaScript, Kotlin,  PHP, Python, R, Ruby, Rust e Scala  | 6 Modos desde o iniciante, com Hello World! |
-|[Kaggle](https://www.kaggle.com/) | SIM | Não | Python, R, SQL | Maior site de referência para aprendizado de Data Science, Machine Learn e afins | 
-|[LeetCode](https://leetcode.com/) | SIM | Não | C, C++, C#, Go, Java, JavaScript, Kotlin, PHP, Python, Python3, R, Ruby, Rust, MySQL, MS SQL, Oracle, Bash, Swift, Rust, Typescript, Racket, Erlang e Elixir | Site muito bom para treinar programação e estudar pra entrevista de código, tem módulos básicos, intermediários e avançados. Sessão com materiais de estudos com prática e contest toda semana. | 
+|[Kaggle](https://www.kaggle.com/) | SIM | Não | Python, R, SQL | Maior site de referência para aprendizado de Data Science, Machine Learn e afins |
+|[LeetCode](https://leetcode.com/) | SIM | Não | C, C++, C#, Go, Java, JavaScript, Kotlin, PHP, Python, Python3, R, Ruby, Rust, MySQL, MS SQL, Oracle, Bash, Swift, Rust, Typescript, Racket, Erlang e Elixir | Site muito bom para treinar programação e estudar pra entrevista de código, tem módulos básicos, intermediários e avançados. Sessão com materiais de estudos com prática e contest toda semana. |
 |[Grid Garden](https://cssgridgarden.com/) | Não | Não | CSS | Site para aprender e treinar css grid layout |
 |[CSS Battle](https://cssbattle.dev/) | Sim | Sim | HTML, CSS | Site de competição de css com menor numero de caracteres |
-|[Coding Game](https://www.codingame.com/)| Sim | Sim | Bash, C, C#, C++, Clojure, D, Dart, F#, Go, Groovy, Haskell, Java, Javascript, Kotlin, Lua, ObjectiveC, OCaml, Pascal, Perl, PHP, Python3, Ruby, Rust, Scala, Swift, TypeScript, VB.NET| Site para competir e aprender criando algoritmos para jogar| 
+|[Coding Game](https://www.codingame.com/)| Sim | Sim | Bash, C, C#, C++, Clojure, D, Dart, F#, Go, Groovy, Haskell, Java, Javascript, Kotlin, Lua, ObjectiveC, OCaml, Pascal, Perl, PHP, Python3, Ruby, Rust, Scala, Swift, TypeScript, VB.NET| Site para competir e aprender criando algoritmos para jogar|
 |[Kattis](https://open.kattis.com/)| Sim | Sim | C, C#, C++, COBOL, F#, Go, Haskell, Java, Node.js, SpiderMonkey(JS), Kotlin, Common Lisp, Objective-C, OCaml, Pascal, PHP, Prolog, Python 2, Python 3, Ruby, Rust | Site com desafios de algoritimo para treinar, com rank de países e universidades |
 |[Exercícios Kotlin - Kotlinautas](https://github.com/Kotlinautas/curso-kotlinautas)| Não | Não | Kotlin | Projeto com exercícios de Kotlin em pt-br que pode ser utilizado dentro da IDE Intellij Community com o plugin EduTools |
 |[SQL Murder mistery](https://mystery.knightlab.com/walkthrough.html) | Não | Não | SQL | Site com explicação/tutoriais interativos de sql que com os resultados ajudam a resolver um mistério |
@@ -34,7 +34,7 @@
 |[Can You Hack Us?](https://canyouhack.us/) | Sim | Não | Site com desafios de segurança (desde a pagina inicial)|
 |[Hack the box](https://www.hackthebox.com/)| Sim | Sim | Site com desafios de segurança|
 |[Try Hack me](https://tryhackme.com/) | Sim | Sim | Site com desafios e tutorias de segurança |
-
+|[SoloLearn](https://www.sololearn.com/)| Sim | Não | Diversas | Diversos cursos gratuitos de programação com certificado. (em inglês)|
 
 # IDE's online
 - *Caso queira estudar linguagens e não possa ou não queira instalar uma IDE, existem essas online*
@@ -63,7 +63,7 @@
 |[Read Me](https://readme.so/editor)| Não | Read Me | Site para criação de ReadMe para seus projetos |
 |[Free for Dev](https://free-for.dev/)| Não | Diversas | Site com serviços, ferramentas e recursos gratuitos para devs (hospedagem, cloud, monitoramento, testes, etc)
 
-# Extras 
+# Extras
 - *Cursos, vídeo aulas, etc. gratuitos*
 
 |Nome com Link | Tipo de Conteúdo | Feito por: |
@@ -84,6 +84,7 @@
 |[WoMakersCode](https://maismulheres.tech/courses)| Cloud Computing, DevOps, Data Science, Inteligência artifical e muito mais| Microsoft|
 |[Learn Ayything](https://learn-anything.xyz)| Trilhas com cursos, vídeos, artigos e repositórios do GitHub sobre qualquer assunto | Nikita Voloboev e Angelo Gazzola |
 |[Microsoft Learn](https://docs.microsoft.com/pt-br/learn/)| Trilhas com tutoriais escritas sobre diversas tecnologias e ferramentas | Microsoft |
+|[App Ideas](https://github.com/florinpop17/app-ideas)| Repositório com desafios de programação desde o iniciante até projetos avançados | Florin Pop |
 
 
 # API
@@ -94,10 +95,10 @@
 |[RapiDapi](https://rapidapi.com/pt/marketplace)| Coleção de API's | RapidAPI |
 |[BrasilAPI](https://brasilapi.com.br/docs) | Projeto de código aberto, que transforma o Brasil em uma API | Comunidade |
 |[Public APIs](https://github.com/public-apis/public-apis)| Repositório com várias APIs gratuitas dos mais diversos assuntos|Public APIs|
-|[Any API](https://any-api.com/)| Site com diversas apis abertas de diversos nichos | LucyBot Inc.| 
+|[Any API](https://any-api.com/)| Site com diversas apis abertas de diversos nichos | LucyBot Inc.|
 
 
-<!-- 
+<!--
 # Verificar
 
 |Nome com link | ----  | --------- |
