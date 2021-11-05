@@ -30,10 +30,10 @@
 |[Kattis](https://open.kattis.com/)| Sim | Sim | C, C#, C++, COBOL, F#, Go, Haskell, Java, Node.js, SpiderMonkey(JS), Kotlin, Common Lisp, Objective-C, OCaml, Pascal, PHP, Prolog, Python 2, Python 3, Ruby, Rust | Site com desafios de algoritimo para treinar, com rank de países e universidades |
 |[Exercícios Kotlin - Kotlinautas](https://github.com/Kotlinautas/curso-kotlinautas)| Não | Não | Kotlin | Projeto com exercícios de Kotlin em pt-br que pode ser utilizado dentro da IDE Intellij Community com o plugin EduTools |
 |[SQL Murder mistery](https://mystery.knightlab.com/walkthrough.html) | Não | Não | SQL | Site com explicação/tutoriais interativos de sql que com os resultados ajudam a resolver um mistério |
-|[C4n y0u H4ck 1t](https://hack.ainfosec.com/) | Sim | Não | Site com desafios de segurança, simples e avançados (Os pontos podem ser usados para se candidatar a empresa) |
-|[Can You Hack Us?](https://canyouhack.us/) | Sim | Não | Site com desafios de segurança (desde a pagina inicial)|
-|[Hack the box](https://www.hackthebox.com/)| Sim | Sim | Site com desafios de segurança|
-|[Try Hack me](https://tryhackme.com/) | Sim | Sim | Site com desafios e tutorias de segurança |
+|[C4n y0u H4ck 1t](https://hack.ainfosec.com/) | Sim | Não | |Site com desafios de segurança, simples e avançados (Os pontos podem ser usados para se candidatar a empresa) |
+|[Can You Hack Us?](https://canyouhack.us/) | Sim | Não | |Site com desafios de segurança (desde a pagina inicial)|
+|[Hack the box](https://www.hackthebox.com/)| Sim | Sim | |Site com desafios de segurança|
+|[Try Hack me](https://tryhackme.com/) | Sim | Sim | |Site com desafios e tutorias de segurança |
 |[SoloLearn](https://www.sololearn.com/)| Sim | Não | Diversas | Diversos cursos gratuitos de programação com certificado. (em inglês)|
 
 # IDE's online
