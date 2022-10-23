@@ -35,6 +35,7 @@
 |[Hack the box](https://www.hackthebox.com/)| Sim | Sim | |Site com desafios de segurança|
 |[Try Hack me](https://tryhackme.com/) | Sim | Sim | |Site com desafios e tutorias de segurança |
 |[SoloLearn](https://www.sololearn.com/)| Sim | Não | Diversas | Diversos cursos gratuitos de programação com certificado. (em inglês)|
+|[PicoCTF](https://picoctf.org/)| Sim | Não | ------ | Site com desafios de segurança(em inglês)|
 
 # IDE's online
 - *Caso queira estudar linguagens e não possa ou não queira instalar uma IDE, existem essas online*
@@ -50,7 +51,7 @@
 |[Online IDE](https://www.online-ide.com)| Não | Não | Bash, C, C++, Go Lang, Java, PHP, Python, R e Ruby | Não tem sistema de login para usar |
 |[ReplIt](https://repl.it/)| Não | Sim | Bloop, Deno, Julia, Lua, Nim, Raku, Roy, [entre outras](https://replit.com/site/about) | -------- |
 |[vscode(beta)](https://vscode.dev/)| Não | Localmente | C/C++, C#, Java, PHP, Rust, Go, TypeScript, JavaScript, Python, JSON, HTML, CSS, and LESS,  [entre outras](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev)|
-|[CodePen](https://codepen.io/)| Não | Sim | HTML, CSS, JavaScript | Editor de códigos front end. Suporta importação de scripts, fontes e CSS externos. Feedback imediato das atualizações feitas. Ótimo para treinar CSS :)
+|[CodePen](https://codepen.io/)| Sim | Sim | HTML, CSS, JavaScript | Editor de códigos front end. Suporta importação de scripts, fontes e CSS externos. Feedback imediato das atualizações feitas. Ótimo para treinar CSS :)
 
 
 # Outras Ferramentas
