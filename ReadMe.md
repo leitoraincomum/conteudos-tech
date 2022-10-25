@@ -86,7 +86,7 @@
 |[Learn Ayything](https://learn-anything.xyz)| Trilhas com cursos, vídeos, artigos e repositórios do GitHub sobre qualquer assunto | Nikita Voloboev e Angelo Gazzola |
 |[Microsoft Learn](https://docs.microsoft.com/pt-br/learn/)| Trilhas com tutoriais escritas sobre diversas tecnologias e ferramentas | Microsoft |
 |[App Ideas](https://github.com/florinpop17/app-ideas)| Repositório com desafios de programação desde o iniciante até projetos avançados | Florin Pop |
-
+|[Vue3 do Iniciante ao Avançado](https://igorhalfeld.teachable.com/p/treinamento-completo-e-gratuito-de-vue-js-3-do-iniciante-ao-avancado) | Curso completo de Vue3 | Igor Halfeld
 
 # API
 - *Sites com concentração de API's para projetos*
