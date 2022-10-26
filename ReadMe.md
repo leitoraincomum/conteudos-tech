@@ -96,6 +96,7 @@
 |[Microsoft Learn](https://docs.microsoft.com/pt-br/learn/)| Trilhas com tutoriais escritas sobre diversas tecnologias e ferramentas | Microsoft |
 |[App Ideas](https://github.com/florinpop17/app-ideas)| Repositório com desafios de programação desde o iniciante até projetos avançados | Florin Pop |
 |[Vue3 do Iniciante ao Avançado](https://igorhalfeld.teachable.com/p/treinamento-completo-e-gratuito-de-vue-js-3-do-iniciante-ao-avancado) | Curso completo de Vue3 | Igor Halfeld
+|[AWS Training](https://www.aws.training/) | Treinamentos AWS com ferramentas e suporte para as certificações | AWS |
 
 # API
 - *Sites com concentração de API's para projetos*
