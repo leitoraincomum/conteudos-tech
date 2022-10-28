@@ -97,7 +97,7 @@
 |[App Ideas](https://github.com/florinpop17/app-ideas)| Repositório com desafios de programação desde o iniciante até projetos avançados | Florin Pop |
 |[Vue3 do Iniciante ao Avançado](https://igorhalfeld.teachable.com/p/treinamento-completo-e-gratuito-de-vue-js-3-do-iniciante-ao-avancado) | Curso completo de Vue3 | Igor Halfeld
 |[AWS Training](https://www.aws.training/) | Treinamentos AWS com ferramentas e suporte para as certificações | AWS |
-
+|[Curso de Flutter 2022 ](hhttps://www.youtube.com/watch?v=Wdn6peqH9ZQ&list=PLlBnICoI-g-fuy5jZiCufhFip1BlBswI7)| Série de vídeo aulas | Flutterando |
 # API
 - *Sites com concentração de API's para projetos*
 
