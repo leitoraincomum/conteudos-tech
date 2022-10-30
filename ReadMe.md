@@ -74,6 +74,7 @@
 |[Cron App](https://www.cronapp.io/) | Não | Diversas  | Plataforma de desenvolvimento de projetos de aplicações web em nuvem |
 |[Read Me](https://readme.so/editor)| Não | Read Me | Site para criação de ReadMe para seus projetos |
 |[Free for Dev](https://free-for.dev/)| Não | Diversas | Site com serviços, ferramentas e recursos gratuitos para devs (hospedagem, cloud, monitoramento, testes, etc)
+|[Thunkable](https://thunkable.com/#//)| Não | No-code | Plataforma para aprendizado e prototipação de aplicativos mobile.
 
 # Extras
 - *Cursos, vídeo aulas, etc. gratuitos*
@@ -99,7 +100,12 @@
 |[App Ideas](https://github.com/florinpop17/app-ideas)| Repositório com desafios de programação desde o iniciante até projetos avançados | Florin Pop |
 |[Vue3 do Iniciante ao Avançado](https://igorhalfeld.teachable.com/p/treinamento-completo-e-gratuito-de-vue-js-3-do-iniciante-ao-avancado) | Curso completo de Vue3 | Igor Halfeld
 |[AWS Training](https://www.aws.training/) | Treinamentos AWS com ferramentas e suporte para as certificações | AWS |
+|[Série para iniciantes em JavaScript](https://www.youtube.com/playlist?list=PLb2HQ45KP0WsFop0pItGSUYl6baYjKEye) | Curso de Introdução ao JavaScript| [Glaucia Lemos](https://twitter.com/glaucia_lemos86) | JavaScript |
+|[Build JavaScript applications using TypeScript](https://learn.microsoft.com/en-us/training/paths/build-javascript-applications-typescript/?WT.mc_id=javascript-23355-gllemos) | Curso de capacitação em TypeScript criado pela Microsoft e em PT-BR| Microsoft e [Glaucia Lemos](https://twitter.com/glaucia_lemos86) |
+|[Curso Introdutório a Svelte](https://vercel.com/docs/beginner-sveltekit) | Curso de introdução ao framework frontend Svelte gratuito| [Vercel](https://vercel.com/) |
+|[Cod3r Cursos](https://www.youtube.com/c/COD3RCURSOS) | Cursos de desenvolvimento web | [Cod3r](https://www.cod3r.com.br/) |
 |[Curso de Flutter 2022](https://www.youtube.com/watch?v=Wdn6peqH9ZQ&list=PLlBnICoI-g-fuy5jZiCufhFip1BlBswI7)| Série de vídeo aulas | Flutterando |
+
 # API
 - *Sites com concentração de API's para projetos*
 
@@ -109,7 +115,7 @@
 |[BrasilAPI](https://brasilapi.com.br/docs) | Projeto de código aberto, que transforma o Brasil em uma API | Comunidade |
 |[Public APIs](https://github.com/public-apis/public-apis)| Repositório com várias APIs gratuitas dos mais diversos assuntos|Public APIs|
 |[Any API](https://any-api.com/)| Site com diversas apis abertas de diversos nichos | LucyBot Inc.|
-
+|[Studio Ghibli API](https://ghibliapi.herokuapp.com/#section/Studio-Ghibli-API)| Site com filmes, personagens e outros personagens dos filmes do Studio Ghibli | Comunidade |
 
 <!--
 # Verificar
