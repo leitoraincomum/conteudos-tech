@@ -26,6 +26,7 @@
 |[Exercism](https://exercism.org/)| Sim | Sim | Diversas (55 linguagens) | Plataforma 100% free, para aprender e praticar |
 |[Flex Box](https://flexboxfroggy.com)| Não | Não | Flex Box (CSS) | Desafios para treinar FLex Box |
 |[Free Code Camp](https://www.freecodecamp.org)| Não | Não | Diversas | Plataforma de certificação de habilidades técnicas gratuita (em inglês) |
+|[Fullstack Café](https://www.fullstack.cafe/)| Não | Não | Diversas | Plataforma para treinar perguntas técnicas e desafios de código (em inglês) |
 |[Hackr.IO](https://hackr.io) | Não | Não | Diversas | Agregador de cursos online, gratuitos e pagos |
 |[Hacker Rank](https://www.hackerrank.com)| SIM | Não | Angular, C#, CSS, Go, Java, JavaScript, Node, Node.js, Python, R, React, Rest API, SQL e etc. | Modos básicos e intermediários |
 |[Khan Academy](https://pt.khanacademy.org) | Sim | Não | Lógica e outras disciplinas | --------- |
@@ -61,6 +62,7 @@
 |[ReplIt](https://repl.it/)| Não | Sim | Bloop, Deno, Julia, Lua, Nim, Raku, Roy, [entre outras](https://replit.com/site/about) | -------- |
 |[vscode(beta)](https://vscode.dev/)| Não | Localmente | C/C++, C#, Java, PHP, Rust, Go, TypeScript, JavaScript, Python, JSON, HTML, CSS, and LESS,  [entre outras](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev)|
 |[CodePen](https://codepen.io/)| Sim | Sim | HTML, CSS, JavaScript | Editor de códigos front end. Suporta importação de scripts, fontes e CSS externos. Feedback imediato das atualizações feitas. Ótimo para treinar CSS :)
+|[Fronteditor](https://www.fronteditor.dev/)| Não | Sim | HTML, CSS, JavaScript, Markdown | Um simples editor de texto para projetos HTML/CSS/JavaScript.)
 
 
 # Outras Ferramentas
@@ -102,6 +104,8 @@
 |[Build JavaScript applications using TypeScript](https://learn.microsoft.com/en-us/training/paths/build-javascript-applications-typescript/?WT.mc_id=javascript-23355-gllemos) | Curso de capacitação em TypeScript criado pela Microsoft e em PT-BR| Microsoft e [Glaucia Lemos](https://twitter.com/glaucia_lemos86) |
 |[Curso Introdutório a Svelte](https://vercel.com/docs/beginner-sveltekit) | Curso de introdução ao framework frontend Svelte gratuito| [Vercel](https://vercel.com/) |
 |[Cod3r Cursos](https://www.youtube.com/c/COD3RCURSOS) | Cursos de desenvolvimento web | [Cod3r](https://www.cod3r.com.br/) |
+|[Curso de Flutter 2022](https://www.youtube.com/watch?v=Wdn6peqH9ZQ&list=PLlBnICoI-g-fuy5jZiCufhFip1BlBswI7)| Série de vídeo aulas | Flutterando |
+
 # API
 - *Sites com concentração de API's para projetos*
 
