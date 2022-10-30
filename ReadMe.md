@@ -62,6 +62,7 @@
 |[ReplIt](https://repl.it/)| Não | Sim | Bloop, Deno, Julia, Lua, Nim, Raku, Roy, [entre outras](https://replit.com/site/about) | -------- |
 |[vscode(beta)](https://vscode.dev/)| Não | Localmente | C/C++, C#, Java, PHP, Rust, Go, TypeScript, JavaScript, Python, JSON, HTML, CSS, and LESS,  [entre outras](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev)|
 |[CodePen](https://codepen.io/)| Sim | Sim | HTML, CSS, JavaScript | Editor de códigos front end. Suporta importação de scripts, fontes e CSS externos. Feedback imediato das atualizações feitas. Ótimo para treinar CSS :)
+|[Fronteditor](https://www.fronteditor.dev/)| Não | Sim | HTML, CSS, JavaScript, Markdown | Um simples editor de texto para projetos HTML/CSS/JavaScript.)
 
 
 # Outras Ferramentas
