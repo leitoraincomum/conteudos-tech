@@ -26,6 +26,7 @@
 |[Exercism](https://exercism.org/)| Sim | Sim | Diversas (55 linguagens) | Plataforma 100% free, para aprender e praticar |
 |[Flex Box](https://flexboxfroggy.com)| Não | Não | Flex Box (CSS) | Desafios para treinar FLex Box |
 |[Free Code Camp](https://www.freecodecamp.org)| Não | Não | Diversas | Plataforma de certificação de habilidades técnicas gratuita (em inglês) |
+|[Fullstack Café](https://www.fullstack.cafe/)| Não | Não | Diversas | Plataforma para treinar perguntas técnicas e desafios de código (em inglês) |
 |[Hackr.IO](https://hackr.io) | Não | Não | Diversas | Agregador de cursos online, gratuitos e pagos |
 |[Hacker Rank](https://www.hackerrank.com)| SIM | Não | Angular, C#, CSS, Go, Java, JavaScript, Node, Node.js, Python, R, React, Rest API, SQL e etc. | Modos básicos e intermediários |
 |[Khan Academy](https://pt.khanacademy.org) | Sim | Não | Lógica e outras disciplinas | --------- |
