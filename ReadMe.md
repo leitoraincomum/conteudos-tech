@@ -29,6 +29,7 @@
 |[Exercism](https://exercism.org/)| Sim | Sim | Diversas (55 linguagens) | Plataforma 100% free, para aprender e praticar |
 |[Flex Box](https://flexboxfroggy.com)| Não | Não | Flex Box (CSS) | Desafios para treinar FLex Box |
 |[Free Code Camp](https://www.freecodecamp.org)| Não | Não | Diversas | Plataforma de certificação de habilidades técnicas gratuita (em inglês) |
+|[Fullstack Café](https://www.fullstack.cafe/)| Não | Não | Diversas | Plataforma para treinar perguntas técnicas e desafios de código (em inglês) |
 |[Hackr.IO](https://hackr.io) | Não | Não | Diversas | Agregador de cursos online, gratuitos e pagos |
 |[Hacker Rank](https://www.hackerrank.com)| SIM | Não | Angular, C#, CSS, Go, Java, JavaScript, Node, Node.js, Python, R, React, Rest API, SQL e etc. | Modos básicos e intermediários |
 |[Khan Academy](https://pt.khanacademy.org) | Sim | Não | Lógica e outras disciplinas | --------- |
@@ -64,6 +65,7 @@
 |[ReplIt](https://repl.it/)| Não | Sim | Bloop, Deno, Julia, Lua, Nim, Raku, Roy, [entre outras](https://replit.com/site/about) | -------- |
 |[vscode(beta)](https://vscode.dev/)| Não | Localmente | C/C++, C#, Java, PHP, Rust, Go, TypeScript, JavaScript, Python, JSON, HTML, CSS, and LESS,  [entre outras](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev)|
 |[CodePen](https://codepen.io/)| Sim | Sim | HTML, CSS, JavaScript | Editor de códigos front end. Suporta importação de scripts, fontes e CSS externos. Feedback imediato das atualizações feitas. Ótimo para treinar CSS :)
+|[Fronteditor](https://www.fronteditor.dev/)| Não | Sim | HTML, CSS, JavaScript, Markdown | Um simples editor de texto para projetos HTML/CSS/JavaScript.)
 
 
 # Outras Ferramentas
@@ -76,6 +78,8 @@
 |[Read Me](https://readme.so/editor)| Não | Read Me | Site para criação de ReadMe para seus projetos |
 |[Free for Dev](https://free-for.dev/)| Não | Diversas | Site com serviços, ferramentas e recursos gratuitos para devs (hospedagem, cloud, monitoramento, testes, etc)
 |[Carbon](https://carbon.vercel.app/)| Não | Diversas | Site para criar e compartilhar bonitas imagens do seu codigo
+|[Thunkable](https://thunkable.com/#//)| Não | No-code | Plataforma para aprendizado e prototipação de aplicativos mobile.
+
 
 # Extras
 - *Cursos, vídeo aulas, etc. gratuitos*
@@ -102,6 +106,11 @@
 |[Vue3 do Iniciante ao Avançado](https://igorhalfeld.teachable.com/p/treinamento-completo-e-gratuito-de-vue-js-3-do-iniciante-ao-avancado) | Curso completo de Vue3 | Igor Halfeld
 |[AWS Training](https://www.aws.training/) | Treinamentos AWS com ferramentas e suporte para as certificações | AWS |
 |[Assert+](https://www.assertplus.com.br/) | Conteúdo em geral sobre qualidade e testes de software | [Jhonatas Matos](https://github.com/jhonatasmatos) |
+|[Série para iniciantes em JavaScript](https://www.youtube.com/playlist?list=PLb2HQ45KP0WsFop0pItGSUYl6baYjKEye) | Curso de Introdução ao JavaScript| [Glaucia Lemos](https://twitter.com/glaucia_lemos86) | JavaScript |
+|[Build JavaScript applications using TypeScript](https://learn.microsoft.com/en-us/training/paths/build-javascript-applications-typescript/?WT.mc_id=javascript-23355-gllemos) | Curso de capacitação em TypeScript criado pela Microsoft e em PT-BR| Microsoft e [Glaucia Lemos](https://twitter.com/glaucia_lemos86) |
+|[Curso Introdutório a Svelte](https://vercel.com/docs/beginner-sveltekit) | Curso de introdução ao framework frontend Svelte gratuito| [Vercel](https://vercel.com/) |
+|[Cod3r Cursos](https://www.youtube.com/c/COD3RCURSOS) | Cursos de desenvolvimento web | [Cod3r](https://www.cod3r.com.br/) |
+|[Curso de Flutter 2022](https://www.youtube.com/watch?v=Wdn6peqH9ZQ&list=PLlBnICoI-g-fuy5jZiCufhFip1BlBswI7)| Série de vídeo aulas | Flutterando |
 
 # API
 - *Sites com concentração de API's para projetos*
@@ -113,7 +122,7 @@
 |[Public APIs](https://github.com/public-apis/public-apis)| Repositório com várias APIs gratuitas dos mais diversos assuntos|Public APIs|
 |[Any API](https://any-api.com/)| Site com diversas apis abertas de diversos nichos | LucyBot Inc.|
 |[ServeRest](https://serverest.dev/)| O ServeRest é uma API REST gratuita que simula uma loja virtual com intuito de servir de material de estudos de testes de API | [Paulo Gonçalves](https://github.com/PauloGoncalvesBH) |
-
+|[Studio Ghibli API](https://ghibliapi.herokuapp.com/#section/Studio-Ghibli-API)| Site com filmes, personagens e outros personagens dos filmes do Studio Ghibli | Comunidade |
 
 <!--
 # Verificar
