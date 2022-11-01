@@ -49,6 +49,8 @@
 |[Try Hack me](https://tryhackme.com/) | Sim | Sim | |Site com desafios e tutorias de segurança |
 |[SoloLearn](https://www.sololearn.com/)| Sim | Não | Diversas | Diversos cursos gratuitos de programação com certificado. (em inglês)|
 |[PicoCTF](https://picoctf.org/)| Sim | Não | ------ | Site com desafios de segurança(em inglês)|
+|[Coder Byte](https://www.coderbyte.com/)| ------ | ------ | C, C++, C#, Clojure, Dart, Elixir, Go, Java, JavaScript, Kotlin, PHP, Python3, R, Ruby, Scala, Swift, TypeScript | O Coderbyte oferece mais de 200 desafios de programação e os desafios vão de fáceis a difíceis. |
+|[Top Coder](https://www.topcoder.com)| Sim | ------ | Diversas, depende do desafio | Voltado para programação competitiva, onde se pode competir com os outros resolvendo desafios o mais rápido possível para ter as melhores pontuações.|
 
 # IDE's online
 - *Caso queira estudar linguagens e não possa ou não queira instalar uma IDE, existem essas online*
