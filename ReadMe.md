@@ -51,6 +51,10 @@
 |[PicoCTF](https://picoctf.org/)| Sim | Não | ------ | Site com desafios de segurança(em inglês)|
 |[Flexbox Zombies](https://mastery.games/flexboxzombies/)| Sim | Sim | CSS | Jogo gratuito para exercitar CSS de forma mais dinâmica e divertida |
 |[Codepip](https://codepip.com/) | Sim | Não | HTML, CSS e JavaScript| Série de jogos e exercícios práticos para praticar a stack básica de frontend |
+
+|[Coder Byte](https://www.coderbyte.com/)| ------ | ------ | C, C++, C#, Clojure, Dart, Elixir, Go, Java, JavaScript, Kotlin, PHP, Python3, R, Ruby, Scala, Swift, TypeScript | O Coderbyte oferece mais de 200 desafios de programação e os desafios vão de fáceis a difíceis. |
+|[Top Coder](https://www.topcoder.com)| Sim | ------ | Diversas, depende do desafio | Voltado para programação competitiva, onde se pode competir com os outros resolvendo desafios o mais rápido possível para ter as melhores pontuações.|
+
 # IDE's online
 - *Caso queira estudar linguagens e não possa ou não queira instalar uma IDE, existem essas online*
 
