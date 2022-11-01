@@ -46,7 +46,6 @@
 |[Try Hack me](https://tryhackme.com/) | Sim | Sim | |Site com desafios e tutorias de segurança |
 |[SoloLearn](https://www.sololearn.com/)| Sim | Não | Diversas | Diversos cursos gratuitos de programação com certificado. (em inglês)|
 |[PicoCTF](https://picoctf.org/)| Sim | Não | ------ | Site com desafios de segurança(em inglês)|
-|[CSS Battle](https://cssbattle.dev/)| Sim | Não | CSS | Plataforma gamificada com uma grande coletânea de jogos para exercitar CSS |
 |[Flexbox Zombies](https://mastery.games/flexboxzombies/)| Sim | Sim | CSS | Jogo gratuito para exercitar CSS de forma mais dinâmica e divertida |
 |[Codepip](https://codepip.com/) | Sim | Não | HTML, CSS e JavaScript| Série de jogos e exercícios práticos para praticar a stack básica de frontend |
 # IDE's online
