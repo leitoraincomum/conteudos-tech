@@ -26,6 +26,7 @@
 |[Exercism](https://exercism.org/)| Sim | Sim | Diversas (55 linguagens) | Plataforma 100% free, para aprender e praticar |
 |[Flex Box](https://flexboxfroggy.com)| Não | Não | Flex Box (CSS) | Desafios para treinar FLex Box |
 |[Free Code Camp](https://www.freecodecamp.org)| Não | Não | Diversas | Plataforma de certificação de habilidades técnicas gratuita (em inglês) |
+|[Fullstack Café](https://www.fullstack.cafe/)| Não | Não | Diversas | Plataforma para treinar perguntas técnicas e desafios de código (em inglês) |
 |[Hackr.IO](https://hackr.io) | Não | Não | Diversas | Agregador de cursos online, gratuitos e pagos |
 |[Hacker Rank](https://www.hackerrank.com)| SIM | Não | Angular, C#, CSS, Go, Java, JavaScript, Node, Node.js, Python, R, React, Rest API, SQL e etc. | Modos básicos e intermediários |
 |[Khan Academy](https://pt.khanacademy.org) | Sim | Não | Lógica e outras disciplinas | --------- |
@@ -105,6 +106,8 @@
 |[Build JavaScript applications using TypeScript](https://learn.microsoft.com/en-us/training/paths/build-javascript-applications-typescript/?WT.mc_id=javascript-23355-gllemos) | Curso de capacitação em TypeScript criado pela Microsoft e em PT-BR| Microsoft e [Glaucia Lemos](https://twitter.com/glaucia_lemos86) |
 |[Curso Introdutório a Svelte](https://vercel.com/docs/beginner-sveltekit) | Curso de introdução ao framework frontend Svelte gratuito| [Vercel](https://vercel.com/) |
 |[Cod3r Cursos](https://www.youtube.com/c/COD3RCURSOS) | Cursos de desenvolvimento web | [Cod3r](https://www.cod3r.com.br/) |
+|[Curso de Flutter 2022](https://www.youtube.com/watch?v=Wdn6peqH9ZQ&list=PLlBnICoI-g-fuy5jZiCufhFip1BlBswI7)| Série de vídeo aulas | Flutterando |
+
 # API
 - *Sites com concentração de API's para projetos*
 
