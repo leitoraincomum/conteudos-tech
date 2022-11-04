@@ -98,7 +98,6 @@
 |[Descomplicando Kubernets](https://www.youtube.com/playlist?list=PLf-O3X2-mxDmXQU-mJVgeaSL7Rtejvv0S)| Série de vídeo aulas | Jeferson Fernando ([LinuxTips](https://www.linuxtips.io)) |
 |[DEV CHALLENGE](https://www.devchallenge.com.br/challenges)| Desafios de front-end, back-end e mobile | [Lorena Montes](https://www.linkedin.com/in/lorenagmontes/) |
 |[Diego Mariano](https://diegomariano.com/home/#free-courses)| Portal de cursos que contém cursos gratuitos com certificado em tópicos como HTML, CSS, Linux, SQL, PHP, entre outros| Diego Mariano|
-|[Professor Isidro](https://www.professorisidro.com.br/courses/)| Cursos introdutórios de JAVA, Estrutura de Dados, Desenvolvimento Web e Compiladores | Professor Isidro |
 |[Introdução Js](http://betrybe.com/curso-gratuito-js)| Curso introdutório de JavaScript | Trybe |
 |[loiane.training](https://loiane.training/cursos)| Cursos de Java, Angular, Phoneag e Apache Cordova, Fundamentos EXT JS 4 | [Loiane Groner](https://www.youtube.com/channel/UCqQn92noBhY9VKQy4xCHPsg)|
 |[PHP do Jeito Certo](http://br.phptherightway.com)| Tutorial de PHP em texto | Josh Lockhart e [colaboradores](http://br.phptherightway.com/#site-footer)|
@@ -117,6 +116,7 @@
 |[Curso Introdutório a Svelte](https://vercel.com/docs/beginner-sveltekit) | Curso de introdução ao framework frontend Svelte gratuito| [Vercel](https://vercel.com/) |
 |[Cod3r Cursos](https://www.youtube.com/c/COD3RCURSOS) | Cursos de desenvolvimento web | [Cod3r](https://www.cod3r.com.br/) |
 |[Curso de Flutter 2022](https://www.youtube.com/watch?v=Wdn6peqH9ZQ&list=PLlBnICoI-g-fuy5jZiCufhFip1BlBswI7)| Série de vídeo aulas | Flutterando |
+|[Professor Isidro](https://www.professorisidro.com.br/courses/)| Cursos introdutórios de JAVA, Estrutura de Dados, Desenvolvimento Web e Compiladores | [Professor Isidro](https://www.instagram.com/professorisidro/) |
 
 # API
 - *Sites com concentração de API's para projetos*
