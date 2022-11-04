@@ -5,7 +5,7 @@
 ## Sumário
 
 - [Sobre esse repositório](#sobre-esse-repositório)
-  - [Sumário](#sumário)
+- [Sumário](#sumário)
 - [Sites com exercícios](#sites-com-exercícios)
 - [IDE's online](#ides-online)
 - [Outras Ferramentas](#outras-ferramentas)
@@ -98,6 +98,7 @@
 |[Descomplicando Kubernets](https://www.youtube.com/playlist?list=PLf-O3X2-mxDmXQU-mJVgeaSL7Rtejvv0S)| Série de vídeo aulas | Jeferson Fernando ([LinuxTips](https://www.linuxtips.io)) |
 |[DEV CHALLENGE](https://www.devchallenge.com.br/challenges)| Desafios de front-end, back-end e mobile | [Lorena Montes](https://www.linkedin.com/in/lorenagmontes/) |
 |[Diego Mariano](https://diegomariano.com/home/#free-courses)| Portal de cursos que contém cursos gratuitos com certificado em tópicos como HTML, CSS, Linux, SQL, PHP, entre outros| Diego Mariano|
+|[Professor Isidro](https://www.professorisidro.com.br/courses/)| Cursos introdutórios de JAVA, Estrutura de Dados, Desenvolvimento Web e Compiladores | Professor Isidro |
 |[Introdução Js](http://betrybe.com/curso-gratuito-js)| Curso introdutório de JavaScript | Trybe |
 |[loiane.training](https://loiane.training/cursos)| Cursos de Java, Angular, Phoneag e Apache Cordova, Fundamentos EXT JS 4 | [Loiane Groner](https://www.youtube.com/channel/UCqQn92noBhY9VKQy4xCHPsg)|
 |[PHP do Jeito Certo](http://br.phptherightway.com)| Tutorial de PHP em texto | Josh Lockhart e [colaboradores](http://br.phptherightway.com/#site-footer)|
