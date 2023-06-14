@@ -1,17 +1,15 @@
-# Sobre esse repositório
-- Esse repositório foi criado por mim [Fernanda Souza](https://github.com/leitoraincomum) com o intuito de divulgar ferramentas gratuitas que possam auxiliar pessoas em seus estudos.
-- Se conhece alguma que não está listada, faça fork desse repositório e abra uma solicitação de alteração (pull request).
-
-## Sumário
+# Sumário
 
 - [Sobre esse repositório](#sobre-esse-repositório)
-- [Sumário](#sumário)
 - [Sites com exercícios](#sites-com-exercícios)
 - [IDE's online](#ides-online)
 - [Outras Ferramentas](#outras-ferramentas)
 - [Extras](#extras)
 - [API](#api)
-- [Verificar](#verificar)
+
+# Sobre esse repositório
+- Esse repositório foi criado por mim [Fernanda Souza](https://github.com/leitoraincomum) com o intuito de divulgar ferramentas gratuitas que possam auxiliar pessoas em seus estudos.
+- Se conhece alguma que não está listada, faça fork desse repositório e abra uma solicitação de alteração (pull request).
 
 # Sites com exercícios
 - *Sites com exercícios para treinar*
