@@ -57,6 +57,7 @@
 |Nome com Link | Sistema de Pontuação? | Salva Projetos? | Linguagens Suportadas | Observações |
 | ---------------- | ----------- | ---------------- | ----------- | -------- |
 |[Code Sand Box](https://codesandbox.io)| Não | Sim | HTML, CSS, Node.js, [entre outras](https://codesandbox.io/docs/start) | Plataforma para projetos front-end |
+|[Google Colab](https://colab.research.google.com/)| Não | Sim | Python | Plataforma para projetos feitos em python, suportando bibliotecas como pandas e networkx|
 |[DartPad](https://dartpad.dev/) | Não | Não | Dart | --------- |
 |[Glitch](https://glitch.com/) | Não | Sim | Linguagens para aplicações web | IDE e comunidade para aplicações web |
 |[IDEONE](https://ideone.com)| Não | Sim | Ada95, Assembler, AWK, Bash, C99,  Cobol, COBOL 85, Fortran, Go, SQLite, Swift, [entre outras](https://ideone.com/credits)| ------ |
