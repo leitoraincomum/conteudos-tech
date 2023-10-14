@@ -59,6 +59,7 @@
 |[Code Sand Box](https://codesandbox.io)| Não | Sim | HTML, CSS, Node.js, [entre outras](https://codesandbox.io/docs/start) | Plataforma para projetos front-end |
 |[DartPad](https://dartpad.dev/) | Não | Não | Dart | --------- |
 |[Glitch](https://glitch.com/) | Não | Sim | Linguagens para aplicações web | IDE e comunidade para aplicações web |
+|[Google Colab](https://colab.research.google.com/)| Não | Sim | Python | Plataforma para projetos feitos em python, suportando bibliotecas como pandas e networkx|
 |[IDEONE](https://ideone.com)| Não | Sim | Ada95, Assembler, AWK, Bash, C99,  Cobol, COBOL 85, Fortran, Go, SQLite, Swift, [entre outras](https://ideone.com/credits)| ------ |
 |[Learn Git](https://learngitbranching.js.org/?locale=pt_BR)| Não | Não | Git | Aqui você pode aprender no passo a passo ou treinar no modo sandbox! |
 |[OnLineGDB](https://www.onlinegdb.com) | Não | Sim | C, C++, Python, PHP, Ruby, C#, VB, Perl, Swift, Prolog, Javascript, Pascal, HTML, CSS e JavaScript | -------- |
