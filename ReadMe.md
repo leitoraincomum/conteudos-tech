@@ -115,6 +115,9 @@
 |[Cod3r Cursos](https://www.youtube.com/c/COD3RCURSOS) | Cursos de desenvolvimento web | [Cod3r](https://www.cod3r.com.br/) |
 |[Curso de Flutter 2022](https://www.youtube.com/watch?v=Wdn6peqH9ZQ&list=PLlBnICoI-g-fuy5jZiCufhFip1BlBswI7)| Série de vídeo aulas | Flutterando |
 |[Professor Isidro](https://www.professorisidro.com.br/courses/)| Cursos introdutórios de JAVA, Estrutura de Dados, Desenvolvimento Web e Compiladores | [Professor Isidro](https://www.instagram.com/professorisidro/) |
+|[Curso Python 3](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)| Curso gratuito de Python 3 pelo YouTube | [Professor Guanabara](https://www.instagram.com/gustavoguanabara/) |
+|[Curso Python](https://github.com/PyLadiesSP/Cursos)| Curso gratuito de Python feito pela comunidade PyLadies | [PyLadies SP](https://www.instagram.com/pyladies.saopaulo/) |
+|[Curso FastAPI do Zero](https://fastapidozero.dunossauro.com/)| Curso gratuito de FastAPI | [Dunossauro](https://dunossauro.com/) |
 
 # API
 - *Sites com concentração de API's para projetos*
