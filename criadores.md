@@ -47,4 +47,6 @@ Pessoas que produzem vídeos sobre tecnologia
 |[Loiane Groner](https://loiane.training/sobre) | Java, Angular, Spring, VS Code | [YouTube](https://www.youtube.com/c/loianegroner) | ------- |
 |[Kamila Santos](https://beacons.page/kamila_code) | Java, Spring, Backend, Cloud computing | [YouTube](https://www.youtube.com/Kamilacode) | ------- |
 |[Jhonatas Matos](https://github.com/jhonatasmatos) | Testes de software, Tecnicas de testes e automação de testes | [YouTube](https://www.youtube.com/c/AssertPlus) | ------- |
+|[Dunossauro](https://github.com/dunossauro) | Python | [YouTube](https://www.youtube.com/@Dunossauro) | ------- |
+
 
