@@ -118,6 +118,7 @@
 |[Curso Python 3](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)| Curso gratuito de Python 3 pelo YouTube | [Professor Guanabara](https://www.instagram.com/gustavoguanabara/) |
 |[Curso Python](https://github.com/PyLadiesSP/Cursos)| Curso gratuito de Python feito pela comunidade PyLadies | [PyLadies SP](https://www.instagram.com/pyladies.saopaulo/) |
 |[Curso FastAPI do Zero](https://fastapidozero.dunossauro.com/)| Curso gratuito de FastAPI | [Dunossauro](https://dunossauro.com/) |
+|[Téo Me Why](https://cursos.teomewhy.org/)| Cursos gratuitos na área de dados e tecnologia | [Téo Calvo](https://www.linkedin.com/in/teocalvo/) |
 
 # API
 - *Sites com concentração de API's para projetos*
