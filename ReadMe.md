@@ -119,6 +119,7 @@
 |[Curso Python](https://github.com/PyLadiesSP/Cursos)| Curso gratuito de Python feito pela comunidade PyLadies | [PyLadies SP](https://www.instagram.com/pyladies.saopaulo/) |
 |[Curso FastAPI do Zero](https://fastapidozero.dunossauro.com/)| Curso gratuito de FastAPI | [Dunossauro](https://dunossauro.com/) |
 |[Téo Me Why](https://cursos.teomewhy.org/)| Cursos gratuitos na área de dados e tecnologia | [Téo Calvo](https://www.linkedin.com/in/teocalvo/) |
+|[GitHub Learn](https://learn.github.com/)| tutoriais para iniciantes, aprendizado prático e aulas ministradas por especialistas | GitHub |
 
 # API
 - *Sites com concentração de API's para projetos*
