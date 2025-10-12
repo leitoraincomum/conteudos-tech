@@ -120,6 +120,7 @@
 |[Curso FastAPI do Zero](https://fastapidozero.dunossauro.com/)| Curso gratuito de FastAPI | [Dunossauro](https://dunossauro.com/) |
 |[Téo Me Why](https://cursos.teomewhy.org/)| Cursos gratuitos na área de dados e tecnologia | [Téo Calvo](https://www.linkedin.com/in/teocalvo/) |
 |[GitHub Learn](https://learn.github.com/)| tutoriais para iniciantes, aprendizado prático e aulas ministradas por especialistas | GitHub |
+|[DEV Community](https://dev.to/)| lugar onde os programadores compartilham, se mantêm atualizados e desenvolvem suas carreiras | DEV Community |
 
 # API
 - *Sites com concentração de API's para projetos*
