@@ -119,10 +119,12 @@
 |[Curso Python](https://github.com/PyLadiesSP/Cursos)| Curso gratuito de Python feito pela comunidade PyLadies | [PyLadies SP](https://www.instagram.com/pyladies.saopaulo/) |
 |[Curso FastAPI do Zero](https://fastapidozero.dunossauro.com/)| Curso gratuito de FastAPI | [Dunossauro](https://dunossauro.com/) |
 |[Téo Me Why](https://cursos.teomewhy.org/)| Cursos gratuitos na área de dados e tecnologia | [Téo Calvo](https://www.linkedin.com/in/teocalvo/) |
-|[GitHub Learn](https://learn.github.com/)| tutoriais para iniciantes, aprendizado prático e aulas ministradas por especialistas | GitHub |
-|[DEV Community](https://dev.to/)| lugar onde os programadores compartilham, se mantêm atualizados e desenvolvem suas carreiras | DEV Community |
+|[GitHub Learn](https://learn.github.com/)| Tutoriais para iniciantes, aprendizado prático e aulas ministradas por especialistas | GitHub |
+|[DEV Community](https://dev.to/)| Lugar onde os programadores compartilham, se mantêm atualizados e desenvolvem suas carreiras | DEV Community |
 |[Tech Guide](https://techguide.sh/)| A Alura criou o TechGuide.sh para ajudar na sua jornada de aprendizado | Alura |
 | [DIO](https://www.dio.me/) | Plataforma de cursos e bootcamps gratuitos em tecnologia | Digital Innovation One |
+| [Microsoft ConectAI Desenvolvedores](https://www.microsoft.com/pt-br/conecta/desenvolvedores.aspx) | Mergulhe no universo da Inteligência Artificial, aprenda a criar aplicativos com o Power Platform, prepare-se para as certificações da Microsoft e explore trilhas de aprendizado personalizadas | Microsoft |
+| [Microsoft Reactor](https://developer.microsoft.com/pt-br/reactor/) | O Microsoft Reactor fornece eventos, treinamento e recursos da comunidade para ajudar startups, empreendedores e desenvolvedores a criar seus próximos negócios em tecnologia de IA | Microsoft |
 
 
 # API
