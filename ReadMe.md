@@ -123,6 +123,8 @@
 |[DEV Community](https://dev.to/)| Lugar onde os programadores compartilham, se mantêm atualizados e desenvolvem suas carreiras | DEV Community |
 |[Tech Guide](https://techguide.sh/)| A Alura criou o TechGuide.sh para ajudar na sua jornada de aprendizado | Alura |
 | [DIO](https://www.dio.me/) | Plataforma de cursos e bootcamps gratuitos em tecnologia | Digital Innovation One |
+| [Microsoft ConectAI Desenvolvedores](https://www.microsoft.com/pt-br/conecta/desenvolvedores.aspx) | Mergulhe no universo da Inteligência Artificial, aprenda a criar aplicativos com o Power Platform, prepare-se para as certificações da Microsoft e explore trilhas de aprendizado personalizadas | Microsoft |
+| [Microsoft Reactor](https://developer.microsoft.com/pt-br/reactor/) | O Microsoft Reactor fornece eventos, treinamento e recursos da comunidade para ajudar startups, empreendedores e desenvolvedores a criar seus próximos negócios em tecnologia de IA | Microsoft |
 
 
 # API
