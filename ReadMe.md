@@ -82,6 +82,7 @@
 |[Free for Dev](https://free-for.dev/)| Não | Diversas | Site com serviços, ferramentas e recursos gratuitos para devs (hospedagem, cloud, monitoramento, testes, etc)
 |[Carbon](https://carbon.vercel.app/)| Não | Diversas | Site para criar e compartilhar bonitas imagens do seu codigo
 |[Thunkable](https://thunkable.com/#//)| Não | No-code | Plataforma para aprendizado e prototipação de aplicativos mobile.
+|[Diciotech](https://diciotech.netlify.app)| Não | Diversas | O Diciotech é um dicionário tech online colaborativo e open source. Nossa missão é ajudar pessoas de todos os níveis a entenderem termos e conceitos relacionados à tecnologia de forma clara e simples.
 
 
 # Extras
