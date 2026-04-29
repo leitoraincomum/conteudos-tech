@@ -17,7 +17,6 @@
 |Nome com Link | Sistema de Pontuação? | Salva Projetos? | Linguagens Suportadas | Observações |
 | ---------------- | ---------------- |---------- |----------- | -------- |
 |[beecrowd](https://www.beecrowd.com.br/) | SIM | Não | C, C++, C#, Clojure, Dart, Go, Haskell, Java, JavaScript, Kotlin,  PHP, Python, R, Ruby, Rust e Scala  | 6 Modos desde o iniciante, com Hello World! |
-|[Bento.IO](https://bento.io)| Sim | Não | Nenhuma específica | Plataforma de auxilio a se tornar autodidata em programação (em inglês)|
 |[C4n y0u H4ck 1t](https://hack.ainfosec.com/) | Sim | Não | |Site com desafios de segurança, simples e avançados (Os pontos podem ser usados para se candidatar a empresa) |
 |[Can You Hack Us?](https://canyouhack.us/) | Sim | Não | |Site com desafios de segurança (desde a pagina inicial)|
 |[Code](https://code.org)| Não | Sim | Não disponível | Cursos de treino de lógica, entre outros para pessoas iniciantes |
